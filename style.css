@@ -1,0 +1,58 @@
+.background 
+{
+  viewport-fill: black;
+}
+
+#myLabel 
+{
+  font-size: 120;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+  fill: white;
+}
+#myBattery
+{
+  font-size: 40;
+  font-family: Seville-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 19%;
+  y: 14%;
+  fill: forestgreen;
+}
+
+#myMonth
+{
+  font-size: 60;
+  font-family: Seville-Bold ;
+  text-length: 32;
+  text-anchor: end;
+  x: 242;
+  y: 244;
+  fill: darksalmon;
+}
+
+#myDay
+{
+  font-size: 60;
+  font-family: Seville-Bold ;
+  text-length: 32;
+  text-anchor: end;
+  x: 120;
+  y: 244;
+  fill: darksalmon;
+}
+
+#mySteps 
+{
+  font-size: 40;
+  font-family: Seville-Bold ;
+  text-length: 32;
+  text-anchor: end;
+  x: 96%;
+  y: 14%;
+  fill: pink;
+}
